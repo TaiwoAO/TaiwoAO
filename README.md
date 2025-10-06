@@ -11,7 +11,7 @@ I’m passionate about using technology to cut bottlenecks, increase efficiency,
 
 - [**AI Chat Agent**https://www.notion.so/AI-Chat-Agent-284c6c0380a98035a8e6e13168740bf9?source=copy_link] – Automates customer support on Telegram, handling inquiries and orders in real time.
 
-- [**Lead-to-Customer Automation**]([https://your-notion-link](https://www.notion.so/Lead-to-Customer-Automation-Workflow-27fc6c0380a98040b652e3566b90f564?source=copy_link)) – Captures, validates, and routes new leads into the sales pipeline automatically.
+- [**Lead-to-Customer Automation**](https://www.notion.so/Lead-to-Customer-Automation-Workflow-27fc6c0380a98040b652e3566b90f564?source=copy_link) – Captures, validates, and routes new leads into the sales pipeline automatically.
 
 - [**Social Media Monitoring & Alerts System**]([https://your-notion-link](https://www.notion.so/Social-Media-Monitoring-Alerts-System-27fc6c0380a98031b20becfa2b2139c2?source=copy_link)) – 24/7 brand monitoring that analyses sentiment, sends instant Slack alerts for negative mentions, and logs positive ones in Airtable.
 
